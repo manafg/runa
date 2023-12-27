@@ -1,0 +1,10 @@
+{
+    "welcome": "You look radiant today!",
+    "enterInfo": "Please enter your information",
+    "email": "Email",
+    "password": "password",
+    "submit": "Sign In",
+    "forgetPsaasword": "Did you forget your password?",
+    "dontHaveAccount": "You do not have an account?",
+    "request": "Request a test"
+  }
